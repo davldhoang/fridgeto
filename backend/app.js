@@ -49,12 +49,6 @@ const upload = multer({
   fileFilter: fileFilter,
 }).array("file");
 
-// const upload = multer({
-//   storage,
-//   fileFilter,
-//   limits: 1024 * 1024 * 5
-// });
-
 app.post("/api/upload", function (req, res) {
   upload(req, res, function (err) {
     console.log(req.body.filename);
@@ -85,9 +79,9 @@ mongoose
     process.exit();
   });
 
-// define a simple route to root
+// Define a simple route to root
 app.get("/", (req, res) => {
-  res.json({ message: "Welcome to Fridgeto application." });
+  res.json({ message: "Welcome to Fridgeto application!" });
 });
 
 require("./routes/profiles.routes.js")(app);
@@ -96,6 +90,7 @@ require("./routes/comments.routes.js")(app);
 
 // Step 3
 if (process.env.NODE_ENV === "production") {
+  app.use(express.static("../frontend/build"));
 }
 
 app.listen(PORT, console.log(`Server is starting at ${PORT}`));

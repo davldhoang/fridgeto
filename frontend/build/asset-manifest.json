@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c277f41b.chunk.css",
+    "main.js": "/static/js/main.b6eceeef.chunk.js",
+    "main.js.map": "/static/js/main.b6eceeef.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.18445cb3.js",
+    "runtime-main.js.map": "/static/js/runtime-main.18445cb3.js.map",
+    "static/css/2.f42e59c9.chunk.css": "/static/css/2.f42e59c9.chunk.css",
+    "static/js/2.3a47f4a2.chunk.js": "/static/js/2.3a47f4a2.chunk.js",
+    "static/js/2.3a47f4a2.chunk.js.map": "/static/js/2.3a47f4a2.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.8b493e361a3327dc32c411bf860655c5.js": "/precache-manifest.8b493e361a3327dc32c411bf860655c5.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.f42e59c9.chunk.css.map": "/static/css/2.f42e59c9.chunk.css.map",
+    "static/css/main.c277f41b.chunk.css.map": "/static/css/main.c277f41b.chunk.css.map",
+    "static/js/2.3a47f4a2.chunk.js.LICENSE.txt": "/static/js/2.3a47f4a2.chunk.js.LICENSE.txt",
+    "static/media/1588862607678.jpg": "/static/media/1588862607678.a57f339e.jpg",
+    "static/media/1588862821432.jpg": "/static/media/1588862821432.a57f339e.jpg",
+    "static/media/1588863323040.jpg": "/static/media/1588863323040.0c00dc46.jpg",
+    "static/media/1588866578897.jpg": "/static/media/1588866578897.a57f339e.jpg",
+    "static/media/1588868527295.jpg": "/static/media/1588868527295.a57f339e.jpg",
+    "static/media/1588870755193.png": "/static/media/1588870755193.1c61a0be.png",
+    "static/media/1588875161981.png": "/static/media/1588875161981.1c61a0be.png",
+    "static/media/1588876448291.jpg": "/static/media/1588876448291.44274a45.jpg",
+    "static/media/1588877624126.jpg": "/static/media/1588877624126.be9fa468.jpg",
+    "static/media/1588877921785.png": "/static/media/1588877921785.1c61a0be.png",
+    "static/media/antoine-barres.jpg": "/static/media/antoine-barres.ecc6c5f5.jpg",
+    "static/media/header.jpg": "/static/media/header.44274a45.jpg",
+    "static/media/login-image.jpg": "/static/media/login-image.be9fa468.jpg",
+    "static/media/paper-kit.css": "/static/media/nucleo-icons.f32ed5ad.eot"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.18445cb3.js",
+    "static/css/2.f42e59c9.chunk.css",
+    "static/js/2.3a47f4a2.chunk.js",
+    "static/css/main.c277f41b.chunk.css",
+    "static/js/main.b6eceeef.chunk.js"
+  ]
+}
